@@ -1,4 +1,0 @@
-# Node JS Zoom Clone
-
-
-
